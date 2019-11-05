@@ -1,3 +1,3 @@
-# Cousera_Computer-Science_Programming-with-a-Purpose
+# Coursera_Computer-Science_Programming-with-a-Purpose
 
 Assignments for Coursera online course "Computer Science: Programming with a Purpose"
